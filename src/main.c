@@ -24,6 +24,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <unistd.h>
+#include <getopt.h>
 #include "main.h"
 
 char signExtend(unsigned char inputChar) {
