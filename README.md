@@ -1,6 +1,6 @@
 # VR88M
 
-vr88m is a quick&dirty disassembler for V8 microRISC architecture.
+vr88m is a basic disassembler for V8 microRISC architecture (used in some Micronas USB DAC chips).
 
 ## Howto
 
